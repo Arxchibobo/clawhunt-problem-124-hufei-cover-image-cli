@@ -1,0 +1,38 @@
+{
+  "bilibili_16x9": {
+    "ratio": [16, 9],
+    "safe_margins": {
+      "top": 0.08,
+      "bottom": 0.12,
+      "left": 0.05,
+      "right": 0.05
+    }
+  },
+  "bilibili_4x3": {
+    "ratio": [4, 3],
+    "safe_margins": {
+      "top": 0.08,
+      "bottom": 0.10,
+      "left": 0.05,
+      "right": 0.05
+    }
+  },
+  "xiaohongshu_3x4": {
+    "ratio": [3, 4],
+    "safe_margins": {
+      "top": 0.10,
+      "bottom": 0.15,
+      "left": 0.08,
+      "right": 0.08
+    }
+  },
+  "douyin_9x16": {
+    "ratio": [9, 16],
+    "safe_margins": {
+      "top": 0.12,
+      "bottom": 0.20,
+      "left": 0.06,
+      "right": 0.06
+    }
+  }
+}
